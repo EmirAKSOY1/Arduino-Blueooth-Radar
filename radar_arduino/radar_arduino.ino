@@ -1,4 +1,4 @@
-// Robimek - Android radar projesi
+//Android radar projesi
 #include <NewPing.h>
 #include <Servo.h>
  
